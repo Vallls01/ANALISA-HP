@@ -1,4 +1,4 @@
-const NOMOR_WA = "6281234567890";
+const NOMOR_WA = "6281993773330";
 
 const form = document.getElementById("formKontak");
 const info = document.getElementById("info");
