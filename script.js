@@ -1,4 +1,3 @@
-// GANTI dengan nomor WhatsApp Anda. Contoh: 0812-3456-7890 menjadi 6281234567890
 const NOMOR_WA = "6281234567890";
 
 const form = document.getElementById("formKontak");
